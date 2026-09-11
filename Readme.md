@@ -2,9 +2,9 @@
 
 **Esta es una practica Inicial**
 
-##Como Funciona
+## Como Funciona
 
-###Paso 1
+### Paso 1
 
 1. WDASDAS
 2. DASDAD
